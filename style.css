@@ -1,0 +1,145 @@
+:root{
+    --iris:#4D5AE5;
+    --navyblue: #2E2F42;
+    --slate: #434455;  
+    --white: #FFF;
+    --cloud: #F4F4FD;
+    --ocean: #404BBF;
+}
+.web{
+    color: var(--iris);
+}
+.web-link{
+    color: var(--navyblue);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.logo-link{
+   text-decoration: none; 
+   color: var(--navyblue, #2E2F42);
+   font-family: Roboto;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 500;
+}
+.list{
+   list-style: none;
+}
+.address-link{
+    color: var(--slate);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none; 
+}
+.business{
+    background: var(--navyblue);
+}
+.business-title{
+    color: var(--white);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+}
+.business-but{
+    background: var(--iris);
+    color: var(--white);
+}
+.benefits-title{
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    color: var(--navyblue);
+}
+.benefits-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--slate);
+}
+.title{
+    color: var(--navyblue);
+    font-family: Roboto;
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    text-transform: capitalize;
+}
+.team-title{
+    color: var(--navyblue);
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+.team-text{
+    color: var(--slate, #434455);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.text{
+    color: var(--cloud);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.web-link-footer{
+    color: var(--cloud);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.footer{
+    background: var(--navyblue);
+}
+/*Technologies*/
+.tech-but1{
+    background: var(--ocean);
+    color: var(--white);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+.tech-but{
+    background: var(--cloud);
+    color: var(--iris);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+.tech-title{
+    color: var(--navyblue, #2E2F42);
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+.tech-text{
+    color: var(--slate, #434455);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.tech-img{
+    list-style: none; 
+}
