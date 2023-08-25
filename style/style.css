@@ -190,7 +190,7 @@
   color: var(--white);
   background-color: var(--ocean);
 }
-.tech-title-1{
+.tech-title{
   color: var(--navyblue);
   font-family: "Roboto";
   font-size: 20px;
@@ -199,79 +199,7 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.tech-title-2{
-    color: var(--navyblue);
-    font-family: "Roboto";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.tech-title-3{
-    color: var(--navyblue);
-    font-family: "Roboto";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.tech-title-4{
-    color: var(--navyblue);
-    font-family: "Roboto";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.tech-title-5{
-    color: var(--navyblue);
-    font-family: "Roboto";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.tech-title-6{
-    color: var(--navyblue);
-    font-family: "Roboto";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.tech-title-7{
-    color: var(--navyblue);
-    font-family: "Roboto";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.tech-title-8{
-    color: var(--navyblue);
-    font-family: "Roboto";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.tech-title-9{
-    color: var(--navyblue);
-    font-family: "Roboto";
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.tech-text-1{
+.tech-text{
   color: var(--slate);
   font-family: "Roboto";
   font-size: 16px;
@@ -279,77 +207,5 @@
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.tech-text-2{
-    color: var(--slate);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.tech-text-3{
-    color: var(--slate);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}  
-.tech-text-4{
-    color: var(--slate);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.tech-text-5{
-    color: var(--slate);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.tech-text-6{
-    color: var(--slate);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.tech-text-7{
-    color: var(--slate);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.tech-text-8{
-    color: var(--slate);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.tech-text-9{
-    color: var(--slate);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
 }
 
