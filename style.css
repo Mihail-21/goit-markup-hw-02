@@ -172,7 +172,7 @@
   letter-spacing: 0.02em;
 }
 /*Technologies*/
-.tech-but-1 {
+.tech-but {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -182,83 +182,11 @@
   background-color: var(--cloud);
   cursor: pointer;
 }
-.tech-but-1:hover {
+.tech-but:hover {
   color: var(--white);
   background-color: var(--ocean);
 }
-.tech-but-1:focus {
-  color: var(--white);
-  background-color: var(--ocean);
-}
-.tech-but-2 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--iris);
-  background-color: var(--cloud);
-  cursor: pointer;
-}
-.tech-but-2:hover {
-  color: var(--white);
-  background-color: var(--ocean);
-}
-.tech-but-2:focus {
-  color: var(--white);
-  background-color: var(--ocean);
-}
-.tech-but-3 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--iris);
-  background-color: var(--cloud);
-  cursor: pointer;
-}
-.tech-but-3:hover {
-  color: var(--white);
-  background-color: var(--ocean);
-}
-.tech-but-3:focus {
-  color: var(--white);
-  background-color: var(--ocean);
-}
-.tech-but-4 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--iris);
-  background-color: var(--cloud);
-  cursor: pointer;
-}
-.tech-but-4:hover {
-  color: var(--white);
-  background-color: var(--ocean);
-}
-.tech-but-4:focus {
-  color: var(--white);
-  background-color: var(--ocean);
-}
-.tech-but-5 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--iris);
-  background-color: var(--cloud);
-  cursor: pointer;
-}
-.tech-but-5:hover {
-  color: var(--white);
-  background-color: var(--ocean);
-}
-.tech-but-5:focus {
+.tech-but:focus {
   color: var(--white);
   background-color: var(--ocean);
 }
