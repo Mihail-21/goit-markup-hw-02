@@ -31,6 +31,7 @@
 .logo-link {
   color: var(--navyblue, #2e2f42);
   font-family: "Roboto";
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -123,6 +124,7 @@
   font-family: "Roboto";
   font-size: 20px;
   font-style: normal;
+  font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
@@ -176,7 +178,7 @@
   color: var(--white);
   background-color: var(--ocean);
 }
-.tech-title{
+.tech-title {
   color: var(--navyblue);
   font-family: "Roboto";
   font-size: 20px;
@@ -184,11 +186,10 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.tech-text{
+.tech-text {
   color: var(--slate);
   font-family: "Roboto";
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
